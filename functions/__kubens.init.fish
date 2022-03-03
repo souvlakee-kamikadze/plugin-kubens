@@ -14,7 +14,7 @@ function __kubens.init
 
   # Commands
   __kubens.create_abbr kns         kubens
-  __kubens.create_abbr ktx         kubetx
+  __kubens.create_abbr ktx         kubectx
 
   # Cleanup declared functions
   functions -e __kubens.create_abbr
