@@ -12,8 +12,9 @@ function __kubens.init
 
   # kubens abbreviations
 
-  # This command is used a LOT both below and in daily life
+  # Commands
   __kubens.create_abbr kns         kubens
+  __kubens.create_abbr ktx         kubetx
 
   # Cleanup declared functions
   functions -e __kubens.create_abbr
