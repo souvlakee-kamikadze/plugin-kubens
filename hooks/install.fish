@@ -1,2 +1,2 @@
-source $path/functions/__kubectl.init.fish
-__kubectl.init
+source $path/functions/__kubens.init.fish
+__kubens.init

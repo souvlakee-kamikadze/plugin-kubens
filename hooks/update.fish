@@ -1,2 +1,2 @@
-source $path/functions/__kubectl.reset.fish
-__kubectl.reset
+source $path/functions/__kubens.reset.fish
+__kubens.reset

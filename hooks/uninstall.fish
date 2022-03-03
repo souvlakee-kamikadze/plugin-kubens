@@ -1,2 +1,2 @@
-source $path/functions/__kubectl.destroy.fish
-__kubectl.destroy
+source $path/functions/__kubens.destroy.fish
+__kubens.destroy
